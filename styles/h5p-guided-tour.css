@@ -1,4 +1,10 @@
 /* Overriding max-width */
+
+.h5p.shepherd-element,
+.shepherd-content {
+  font-family: 'Roboto', sans-serif;
+}
+
 .h5p.shepherd-element.shepherd-theme-arrows {
   max-width: 400px;
   font-size: 15px;
